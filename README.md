@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFnMXVkbWN4NHgxMnV5OGtjenVpcW41emJpdG9nbjUxOGxob3BpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Oj5w7lOaR5ieNpuBhn/200.webp"  />
 </div>
 
