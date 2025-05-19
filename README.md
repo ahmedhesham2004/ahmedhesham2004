@@ -7,11 +7,13 @@
 
 <br><br>
 - 👨‍💻 I'm Software Development Engineer
-- 👨‍💻 .NET Developer 
+- 💻 Passionate about Competitive Programming, C#, ASP.NET, and SQL Server 
+- 🎓 Computer Science student  
 - :school: I `graduated` from the [Faculty of MTIS ](https://himc.psu.edu.eg/) at [Port Said University](https://psu.edu.eg/en/home-en/).
-- :trophy: 1x `ACPC` Finalist.
+- :trophy: Finalist in the Arab Collegiate Programming Contest (ACPC) & Expert on Codeforces (@ITcharDO) .
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Atcoder`, `Cses`, `Vjudge`.
-- ✍🏻 I love using Software as a solution for every Problem
+- 🚀 Always looking for new challenges and ways to grow!
+- 🧠 I enjoy turning complex problems into clean, efficient code
 <br>
 
 ###
