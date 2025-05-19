@@ -8,7 +8,7 @@
 <br><br>
 - 👨‍💻 I'm Software Development Engineer
 - 👨‍💻 .NET Developer 
-- :school: I `graduated` from the [Faculty of TIS ](https://himc.psu.edu.eg/) at [Port Said University](https://psu.edu.eg/en/home-en/).
+- :school: I `graduated` from the [Faculty of MTIS ](https://himc.psu.edu.eg/) at [Port Said University](https://psu.edu.eg/en/home-en/).
 - :trophy: 1x `ACPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`, `Cses`, `Vjudge`.
 - ✍🏻 I love using Software as a solution for every Problem
@@ -28,9 +28,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmedhesham2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+
 ###
 
-<h3 align="left">Programming languages</h3>
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 ###
 
@@ -50,7 +53,7 @@
 
 ###
 
-<h3 align="left">Backend Development</h3>
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Backend Development
 
 ###
 
@@ -70,7 +73,7 @@
 
 ###
 
-<h3 align="left">Frontend Development</h3>
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 
 ###
 
