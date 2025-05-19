@@ -1,18 +1,13 @@
 <h2 align="left">Hi 👋! My name is Ahmed hesham</h2>
 
 
-###
-
-<h3 align="left">1x ACPC Finalist || Software Engineer || .NET Developer || Competitive Programmer</h3>
-
-###
-
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFnMXVkbWN4NHgxMnV5OGtjenVpcW41emJpdG9nbjUxOGxob3BpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Oj5w7lOaR5ieNpuBhn/200.webp" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer 
+- 👨‍💻 I'm Software Development Engineer
+- 👨‍💻 .NET Developer 
 - :school: I `graduated` from the [Faculty of TIS ](https://himc.psu.edu.eg/) at [Port Said University](https://psu.edu.eg/en/home-en/).
 - :trophy: 1x `ACPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`, `Cses`, `Vjudge`.
