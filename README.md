@@ -7,19 +7,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFnMXVkbWN4NHgxMnV5OGtjenVpcW41emJpdG9nbjUxOGxob3BpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Oj5w7lOaR5ieNpuBhn/200.webp"  />
-</div>
-
-###
-
-###
-
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFnMXVkbWN4NHgxMnV5OGtjenVpcW41emJpdG9nbjUxOGxob3BpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Oj5w7lOaR5ieNpuBhn/200.webp" width=30%>
 
 <br><br>
 - 👨‍💻 I'm Software Development Engineer 
