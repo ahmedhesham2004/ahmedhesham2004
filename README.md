@@ -197,12 +197,37 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhesham2004&theme=tokyonight_duo" alt="ahmedhesham2004" /></p>
 
 </details>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhesham2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmedhesham2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhesham2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="ahmedhesham2004's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedhesham2004&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhesham2004&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhesham2004" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhesham2004&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhesham2004&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@ahmedhesham2004's Holopin board](https://holopin.io/api/user/board?user=ahmedhesham2004)](https://holopin.io/@ahmedhesham2004)
+	
+</details>
 
 ###
 <h3 align="left">🐍 A Snake Eating My Contributions Graph</h3>
