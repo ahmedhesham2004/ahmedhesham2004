@@ -180,10 +180,10 @@
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
----
-<p align = "center">
+
+<div align = "center">
 	<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+</div>
     
 ###
 ---
