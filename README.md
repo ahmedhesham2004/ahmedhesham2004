@@ -157,9 +157,15 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"   /></a>
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
