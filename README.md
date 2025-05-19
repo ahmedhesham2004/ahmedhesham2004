@@ -182,10 +182,9 @@
 </p>
 
 <p align = "center">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p 
-
+	<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+    
 ###
 
 <div align="center">
