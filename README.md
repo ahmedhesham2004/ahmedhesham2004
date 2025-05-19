@@ -223,9 +223,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhesham2004&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhesham2004&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ahmedhesham2004" /></a> </p>
 
-[![@ahmedhesham2004's Holopin board](https://holopin.io/api/user/board?user=ahmedhesham2004)](https://holopin.io/@ahmedhesham2004)
+![](https://github-profile-trophy.vercel.app/?username=ahmedhesham2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 	
 </details>
 
