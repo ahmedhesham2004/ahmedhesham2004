@@ -14,6 +14,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Atcoder`, `Cses`, `Vjudge`.
 - 🚀 Always looking for new challenges and ways to grow!
 - 🧠 I enjoy turning complex problems into clean, efficient code
+- 🤔 This is [MY RESUME](https://drive.google.com/file/d/1E_JHnGhhzYTZmyltTv1vCthHdRr-vR8H/view?usp=sharing) .
+- 💥 You can visit [MY WEBSITE](https://ahmedhesham2004.github.io/Portfileo/) .
 <br>
 
 ###
